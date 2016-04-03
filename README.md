@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+A proper cup of coffee in a copper coffee cup
+
